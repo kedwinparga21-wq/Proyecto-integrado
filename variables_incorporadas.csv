@@ -1,0 +1,8 @@
+variable,formula_o_regla,significado,utilidad
+Anio,Date.dt.year,Año de la venta,Agrupar por año
+Trimestre,Date.dt.quarter,Trimestre (1 a 4),Comparar periodos
+Mes,Date.dt.strftime('%Y-%m'),Mes de la venta (AAAA-MM),Responde P3
+DiaSemana,Date.dt.day_name(),Día de la semana,Detectar patrones semanales
+FinDeSemana,dayofweek >= 5,Verdadero si es sábado o domingo,Comparar fin de semana vs. entre semana
+PrecioUnitario,Revenue / UnitsSold (si UnitsSold > 0),Ingreso medio por unidad,Comparar precios entre categorías
+NivelVenta,Terciles de Revenue (Bajo / Medio / Alto),Clasificación del tamaño de la venta,Segmentar registros por ingreso

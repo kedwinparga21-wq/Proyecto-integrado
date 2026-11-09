@@ -1,0 +1,8 @@
+paso,detalle,motivo,registros_afectados
+Convertir Date a fecha,"object -> datetime64 (100 válidas, 0 inválidas)",Permite agrupar por mes y trimestre,100
+Validar UnitsSold como numérico,Conversión con pd.to_numeric (0 valores no numéricos pasaron a nulo),Garantiza que las sumas y promedios sean correctos,0
+Validar Revenue como numérico,Conversión con pd.to_numeric (0 valores no numéricos pasaron a nulo),Garantiza que las sumas y promedios sean correctos,0
+Normalizar texto,Se quitaron espacios sobrantes en las columnas de texto,Evita que 'Food' y 'Food ' cuenten como categorías distintas,0
+Revisar duplicados,Filas idénticas (sin contar idx) eliminadas: 0,Un registro repetido duplicaría unidades e ingresos,0
+Revisar valores faltantes,"Nulos en Date, UnitsSold o Revenue (no se imputan; los cálculos los omiten)",Reemplazar sin criterio inventaría información,0
+Revisar valores no positivos,Registros con UnitsSold <= 0 o Revenue <= 0 (se conservan y se reportan),Solo se calcula precio unitario cuando UnitsSold > 0,0

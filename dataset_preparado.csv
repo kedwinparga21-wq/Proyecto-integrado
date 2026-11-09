@@ -1,0 +1,101 @@
+idx,Date,OutletName,Location,ProductCategory,UnitsSold,Revenue,CustomerAgeGroup,CustomerIncomeLevel,Label,Anio,Trimestre,Mes,DiaSemana,FinDeSemana,PrecioUnitario,NivelVenta
+0,2023-01-01,Green Market,Springfield,Electronics,150,45000,30-45,High,High,2023,1,2023-01,Sunday,True,300.0,Medio
+1,2023-01-02,City Mall,Springfield,Home & Garden,200,50000,25-35,Medium,Medium,2023,1,2023-01,Monday,False,250.0,Medio
+2,2023-01-03,Book Haven,Lakeview,Books,120,18000,18-24,Low,Low,2023,1,2023-01,Tuesday,False,150.0,Bajo
+3,2023-01-04,FashionFiesta,River City,Apparel,250,75000,40-50,High,High,2023,1,2023-01,Wednesday,False,300.0,Alto
+4,2023-01-05,Food World,Springfield,Food & Beverages,300,60000,20-30,Medium,Medium,2023,1,2023-01,Thursday,False,200.0,Alto
+5,2023-02-01,UltraStore,Downtown,Electronics,300,105000,30-45,High,High,2023,1,2023-02,Wednesday,False,350.0,Alto
+6,2023-01-06,Cosmic Electronics,Sunnyvale,Electronics,100,30000,30-45,Medium,Medium,2023,1,2023-01,Friday,False,300.0,Medio
+7,2023-02-14,Winter Wonderland,Oldtown,Holiday Decor,30,9000,50-65,Low,Low,2023,1,2023-02,Tuesday,False,300.0,Bajo
+8,2023-01-06,City Bazaar,Oldtown,Fashion,275,75000,28-34,High,High,2023,1,2023-01,Friday,False,272.73,Alto
+9,2023-01-06,QuickShop,Briarwood,Groceries,100,20000,30-45,Medium,Medium,2023,1,2023-01,Friday,False,200.0,Bajo
+10,2023-02-01,Vintage Vault,Oldtown,Antiques,30,9000,50-60,Low,Low,2023,1,2023-02,Wednesday,False,300.0,Bajo
+11,2023-02-01,Tech Trends,Metropolis,Electronics,300,120000,35-55,High,High,2023,1,2023-02,Wednesday,False,400.0,Alto
+12,2023-02-01,Local Gear,Springfield,Sports & Outdoors,130,40000,30-45,Medium,Medium,2023,1,2023-02,Wednesday,False,307.69,Medio
+13,2023-01-06,Toy Kingdom,Hilltown,Toys,50,12000,5-12,Medium,Low,2023,1,2023-01,Friday,False,240.0,Bajo
+14,2023-01-06,Tech Trends,Meadowbrook,Technology,80,20000,50-60,High,High,2023,1,2023-01,Friday,False,250.0,Bajo
+15,2023-02-02,Luxury Lane,Riverdale,Luxury Goods,100,90000,50-65,High,High,2023,1,2023-02,Thursday,False,900.0,Alto
+16,2023-01-07,Toys & Games City,Springfield,Toys,130,26000,5-12,Low,Medium,2023,1,2023-01,Saturday,True,200.0,Medio
+17,2023-02-15,Cozy Corner,Brookside,Home Essentials,45,13500,30-45,Medium,Low,2023,1,2023-02,Wednesday,False,300.0,Bajo
+18,2023-01-07,Tech World,Greenfield,Electronics,300,90000,35-45,High,High,2023,1,2023-01,Saturday,True,300.0,Alto
+19,2023-01-07,Sporty Goods,Midtown,Sports & Fitness,80,24000,25-35,Medium,Medium,2023,1,2023-01,Saturday,True,300.0,Medio
+20,2023-02-02,The Outdoor Shop,Greenfield,Sports & Outdoors,45,11250,30-45,Low,Low,2023,1,2023-02,Thursday,False,250.0,Bajo
+21,2023-02-02,City Boutique,Riverside,Apparel,400,160000,28-40,High,High,2023,1,2023-02,Thursday,False,400.0,Alto
+22,2023-02-02,Eco Outlet,Greenfield,Home & Garden,170,55000,35-45,Medium,Medium,2023,1,2023-02,Thursday,False,323.53,Alto
+23,2023-01-07,Dress & Style,Springfield,Apparel,80,24000,30-45,Low,Low,2023,1,2023-01,Saturday,True,300.0,Medio
+24,2023-01-07,Vintage Values,Historic Town,Antiques,35,12250,60-70,High,High,2023,1,2023-01,Saturday,True,350.0,Bajo
+25,2023-02-03,Elite Emporium,Metro City,High-End Apparel,200,150000,40-55,High,High,2023,1,2023-02,Friday,False,750.0,Alto
+26,2023-01-08,Garden Galore,Riverside,Home & Garden,110,22000,45-60,Medium,Medium,2023,1,2023-01,Sunday,True,200.0,Bajo
+27,2023-02-16,Quick Mart,Riverside,Convenience Goods,20,6000,20-30,Low,Low,2023,1,2023-02,Thursday,False,300.0,Bajo
+28,2023-01-08,Healthy Life,Brookside,Health & Beauty,225,55000,40-50,High,High,2023,1,2023-01,Sunday,True,244.44,Alto
+29,2023-01-08,ElectroWorld,Downtown,Electronics,120,36000,40-50,High,Medium,2023,1,2023-01,Sunday,True,300.0,Medio
+30,2023-02-03,Gourmet Bites,Suburbia,Gourmet Food,15,12000,50-60,Medium,Low,2023,1,2023-02,Friday,False,800.0,Bajo
+31,2023-02-03,Premium Coffee,Downtown,Beverages,350,28000,45-65,High,High,2023,1,2023-02,Friday,False,80.0,Medio
+32,2023-02-03,Tech Bazaar,River City,Electronics,160,48000,40-50,Medium,Medium,2023,1,2023-02,Friday,False,300.0,Medio
+33,2023-01-08,Budget Furnishings,Lakeview,Home & Garden,40,16000,30-45,High,Low,2023,1,2023-01,Sunday,True,400.0,Bajo
+34,2023-01-08,Elegant Eats,Lakeside,Restaurant,50,45000,45-55,High,High,2023,1,2023-01,Sunday,True,900.0,Medio
+35,2023-02-04,Celebrity Café,Garden District,Food & Beverages,400,120000,20-30,High,High,2023,1,2023-02,Saturday,True,300.0,Alto
+36,2023-01-09,Style Center,Greenfield,Apparel,150,45000,35-45,Medium,Medium,2023,1,2023-01,Monday,False,300.0,Medio
+37,2023-02-17,Eco Store,Greenburg,Eco-friendly Products,50,15000,25-35,Medium,Low,2023,1,2023-02,Friday,False,300.0,Bajo
+38,2023-01-09,Eco Stores,Sunnydale,Home & Garden,260,65000,25-35,High,High,2023,1,2023-01,Monday,False,250.0,Alto
+39,2023-01-09,Home & Cozy,Easton,Home & Garden,140,42000,30-45,Medium,Medium,2023,1,2023-01,Monday,False,300.0,Medio
+40,2023-02-04,Junior's Toys,Eastville,Toys & Games,25,5000,18-24,High,Low,2023,1,2023-02,Saturday,True,200.0,Bajo
+41,2023-02-04,CosmoFashion,Uptown,Apparel,500,250000,30-50,High,High,2023,1,2023-02,Saturday,True,500.0,Alto
+42,2023-02-04,Burger World,Lakeview,Food & Beverages,220,66000,20-30,Medium,Medium,2023,1,2023-02,Saturday,True,300.0,Alto
+43,2023-01-09,Fine Dining Bistro,City Center,Food & Beverages,70,35000,50+,Medium,Low,2023,1,2023-01,Monday,False,500.0,Medio
+44,2023-01-09,Oceanic Outfitters,SeaSide,Outdoor Gear,40,32000,30-40,High,High,2023,1,2023-01,Monday,False,800.0,Medio
+45,2023-02-05,Prestige Pharmacy,Uptown,Health & Wellness,250,112500,30-45,High,High,2023,1,2023-02,Sunday,True,450.0,Alto
+46,2023-01-10,Café Delights,Springfield,Food & Beverages,120,30000,25-30,Medium,Medium,2023,1,2023-01,Tuesday,False,250.0,Medio
+47,2023-02-18,Music Mania,Harmony Heights,Musical Instruments,10,2000,30-45,Low,Low,2023,1,2023-02,Saturday,True,200.0,Bajo
+48,2023-01-10,Music Haven,Riverbank,Musical Instruments,200,40000,18-24,Medium,Medium,2023,1,2023-01,Tuesday,False,200.0,Medio
+49,2023-01-10,Book & More,Westfield,Books,160,32000,18-24,Low,Medium,2023,1,2023-01,Tuesday,False,200.0,Medio
+50,2023-02-05,Dress & Co.,Uptown,Apparel,20,10000,25-35,Medium,Low,2023,1,2023-02,Sunday,True,500.0,Bajo
+51,2023-02-05,GadgetWorld,Springfield,Electronics,320,144000,30-45,High,High,2023,1,2023-02,Sunday,True,450.0,Alto
+52,2023-02-05,Cosmo Corner,Springfield,Clothing,190,57000,30-45,Medium,Medium,2023,1,2023-02,Sunday,True,300.0,Alto
+53,2023-01-10,Tech Savvy,River City,Electronics,30,15000,25-35,Low,Low,2023,1,2023-01,Tuesday,False,500.0,Bajo
+54,2023-01-10,Gourmet Goods,Uptown,Gourmet Food,60,48000,40-50,High,High,2023,1,2023-01,Tuesday,False,800.0,Medio
+55,2023-02-06,Tech Topia,Silicon Valley,Electronics,500,225000,30-45,High,High,2023,1,2023-02,Monday,False,450.0,Alto
+56,2023-01-11,Tech Haven,Westwood,Electronics,90,27000,20-30,Medium,Medium,2023,1,2023-01,Wednesday,False,300.0,Medio
+57,2023-02-19,Chic Boutique,Charming Lane,Clothing,70,14000,40-50,Medium,Low,2023,1,2023-02,Sunday,True,200.0,Bajo
+58,2023-01-11,Sport Arena,Woodville,Sports & Fitness,320,120000,30-45,High,High,2023,1,2023-01,Wednesday,False,375.0,Alto
+59,2023-01-11,Fashion Avenue,Northbank,Apparel,130,52000,20-30,Medium,Medium,2023,1,2023-01,Wednesday,False,400.0,Medio
+60,2023-02-06,Techies',Silicon Slopes,Electronics,10,2000,20-30,High,Low,2023,1,2023-02,Monday,False,200.0,Bajo
+61,2023-02-06,Home Solutions,Oakwood,Home & Garden,270,108000,22-38,High,High,2023,1,2023-02,Monday,False,400.0,Alto
+62,2023-02-06,Health Hub,River City,Health & Beauty,110,33000,25-35,Medium,Medium,2023,1,2023-02,Monday,False,300.0,Medio
+63,2023-01-11,Quick Reads,Hilltown,Books,20,4000,18-24,Low,Low,2023,1,2023-01,Wednesday,False,200.0,Bajo
+64,2023-01-11,Vintage Vinyl,Riverbank,Music,100,60000,30-45,High,High,2023,1,2023-01,Wednesday,False,600.0,Alto
+65,2023-02-07,VIP Vault,Eastside,Luxury Goods,50,75000,50-65,High,High,2023,1,2023-02,Tuesday,False,1500.0,Alto
+66,2023-01-12,Baby World,Lakewood,Toys,140,28000,0-2,Low,Medium,2023,1,2023-01,Thursday,False,200.0,Medio
+67,2023-02-20,Sporty Spot,Victory Lane,Sports Equipment,40,16000,35-45,Medium,Low,2023,1,2023-02,Monday,False,400.0,Bajo
+68,2023-01-12,Luxury Mart,Elite Heights,Apparel,280,84000,45-55,High,High,2023,1,2023-01,Thursday,False,300.0,Alto
+69,2023-01-12,Café Central,Lakeside,Food & Beverages,200,60000,40-50,High,Medium,2023,1,2023-01,Thursday,False,300.0,Alto
+70,2023-02-07,Luxe Boutique,Midtown,Luxury Goods,8,16000,40-50,High,Low,2023,1,2023-02,Tuesday,False,2000.0,Bajo
+71,2023-02-07,Beauty Boutique,Parkside,Beauty & Health,450,225000,25-45,High,High,2023,1,2023-02,Tuesday,False,500.0,Alto
+72,2023-02-07,Sporty Outlet,Greenfield,Sports & Outdoors,140,42000,25-35,Medium,Medium,2023,1,2023-02,Tuesday,False,300.0,Medio
+73,2023-01-12,Night Owl Brew,Lakeview,Beverages,90,27000,20-30,Medium,Low,2023,1,2023-01,Thursday,False,300.0,Medio
+74,2023-01-12,Artisan Alley,Oldtown,Handmade Crafts,45,18000,60-70,High,High,2023,1,2023-01,Thursday,False,400.0,Bajo
+75,2023-02-08,Ritzy Rentals,Highrise District,Clothing,350,175000,40-55,High,High,2023,1,2023-02,Wednesday,False,500.0,Alto
+76,2023-01-13,Crafts & Creations,Springfield,Home & Garden,100,20000,30-45,Medium,Medium,2023,1,2023-01,Friday,False,200.0,Bajo
+77,2023-02-21,Arts & Crafts,Palette Plaza,Handmade Goods,25,6250,50-65,Low,Low,2023,1,2023-02,Tuesday,False,250.0,Bajo
+78,2023-01-13,Pet Paradise,Green Meadows,Pet Supplies,190,38000,20-30,Medium,Medium,2023,1,2023-01,Friday,False,200.0,Medio
+79,2023-01-13,Toyland,Sunset Park,Toys & Games,150,30000,25-35,Medium,Medium,2023,1,2023-01,Friday,False,200.0,Medio
+80,2023-02-08,The Stationery Stop,Cobblestone,Stationery,40,8000,20-30,Low,Low,2023,1,2023-02,Wednesday,False,200.0,Bajo
+81,2023-02-08,Elite Tech,Hillside,Electronics,410,164000,28-42,High,High,2023,1,2023-02,Wednesday,False,400.0,Alto
+82,2023-02-08,Readers' Paradise,Springfield,Books,160,48000,30-45,Medium,Medium,2023,1,2023-02,Wednesday,False,300.0,Medio
+83,2023-01-13,Wilderness Adventure,Springfield,Outdoor,10,5000,30-45,High,Low,2023,1,2023-01,Friday,False,500.0,Bajo
+84,2023-01-13,Sporty Stuff,Greenfield,Sportswear,70,35000,30-40,High,High,2023,1,2023-01,Friday,False,500.0,Medio
+85,2023-02-09,Boutique Bliss,Cultural Quarter,Jewelry,100,150000,45-55,High,High,2023,1,2023-02,Thursday,False,1500.0,Alto
+86,2023-01-14,Apparel Avenue,Easton,Apparel,160,52000,40-50,Medium,Medium,2023,1,2023-01,Saturday,True,325.0,Alto
+87,2023-02-22,Techie Zone,Circuit City,Gadgets,30,18000,40-50,Medium,Low,2023,1,2023-02,Wednesday,False,600.0,Bajo
+88,2023-01-14,Bookworms Corner,Reading Ridge,Books,160,32000,19-25,Low,Low,2023,1,2023-01,Saturday,True,200.0,Medio
+89,2023-01-14,Green Thumb,Springfield,Gardening Supplies,90,18000,30-45,Low,Medium,2023,1,2023-01,Saturday,True,200.0,Bajo
+90,2023-02-09,Crafty Creations,Riverside,Craft Supplies,18,2700,18-24,Low,Low,2023,1,2023-02,Thursday,False,150.0,Bajo
+91,2023-02-09,Chic Closet,Lakeside,Apparel,470,235000,33-53,High,High,2023,1,2023-02,Thursday,False,500.0,Alto
+92,2023-02-09,Bakery Delights,Lakeview,Food & Beverages,210,63000,20-30,Medium,Medium,2023,1,2023-02,Thursday,False,300.0,Alto
+93,2023-01-14,Chic Closets,City Center,Apparel,60,30000,40-50,Low,Low,2023,1,2023-01,Saturday,True,500.0,Medio
+94,2023-01-14,Classic Cars,Riverside,Vintage Cars,20,20000,50-60,High,High,2023,1,2023-01,Saturday,True,1000.0,Bajo
+95,2023-02-10,Gastronomy Gallery,Seaside,Food & Beverages,600,180000,20-30,High,High,2023,1,2023-02,Friday,False,300.0,Alto
+96,2023-01-15,Bakery Bites,Springfield,Food & Beverages,130,39000,20-30,Medium,Medium,2023,1,2023-01,Sunday,True,300.0,Medio
+97,2023-02-23,Junior Joy,Playland,Toys,5,1000,5-10,Low,Low,2023,1,2023-02,Thursday,False,200.0,Bajo
+98,2023-01-15,Soda Pop Emporium,Soda Town,Food & Beverages,310,62000,22-32,High,High,2023,1,2023-01,Sunday,True,200.0,Alto
+99,2023-01-15,Tech Trends,Capital City,Electronics,110,33000,20-30,High,Medium,2023,1,2023-01,Sunday,True,300.0,Medio

@@ -1,0 +1,14 @@
+HALLAZGOS DEL ANÁLISIS (generado por el notebook)
+==================================================
+
+P1
+La categoría con mayores ingresos es Electronics (1.084.000; 19,8 % del total). La categoría con más unidades vendidas es Electronics (2.900 unidades; 18,9 % del total). Es la misma categoría con ambos criterios. Sin datos de costos no puede afirmarse cuál categoría es más rentable.
+
+P2
+La tienda con más ingresos es CosmoFashion (250.000; 4,6 % del total) y la ubicación con más ingresos es Springfield (606.000; 11,1 % del total). Se analizaron 98 tiendas y 55 ubicaciones. Una misma ubicación puede agrupar varias tiendas, por lo que ambos niveles no son equivalentes.
+
+P3
+El periodo analizado abarca 2 mes(es). El mes con más ingresos fue 2023-02 (3.445.200). Los meses 2023-01, 2023-02 tienen menos de 25 días con ventas registradas; por eso se incluye el ingreso medio por día, que permite compararlos de forma más justa. Con un periodo tan corto no puede hablarse de estacionalidad.
+
+P4
+El grupo de edad con más ingresos es 30-45 (21,1 % del total) y el nivel de ingreso de cliente con más ventas es High (72,1 % del total). Los datos muestran dónde se concentran las ventas, no por qué.
