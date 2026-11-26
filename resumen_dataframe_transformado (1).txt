@@ -1,0 +1,91 @@
+RESUMEN DEL DATAFRAME TRANSFORMADO - EA1
+========================================
+Generado: 2026-11-26 00:16:45
+dataset_id: infinite-dataset-hub/RetailSalesPerformance
+url: https://huggingface.co/datasets/infinite-dataset-hub/RetailSalesPerformance
+split: train
+config_name: None
+revision: None
+
+Filas: 60
+Columnas: 11
+
+Columnas, tipos de datos y valores nulos:
+                                 tipo  nulos
+fecha                  datetime64[ns]      0
+tienda                         string      0
+ubicacion                      string      0
+categoria_producto             string      0
+unidades_vendidas               int64      0
+ingresos                        int64      0
+grupo_edad_cliente             string      0
+nivel_ingreso_cliente          string      0
+etiqueta_desempeno             string      0
+precio_unitario               float64      0
+mes                            object      0
+Total de valores nulos: 0
+
+Estadísticas descriptivas (variables numéricas):
+                   count      mean       std      min       25%      50%       75%       max
+unidades_vendidas   60.0    227.50    120.53    100.0    130.00    195.0     300.0     600.0
+ingresos            60.0  79325.00  59739.82  18000.0  37500.00  56000.0  109125.0  250000.0
+precio_unitario     60.0    344.64    204.28     80.0    248.61    300.0     400.0    1500.0
+
+Valores más frecuentes (variables de texto o categóricas, máximo 5):
+
+tienda (59 valores distintos)
+tienda
+Tech Trends      2
+City Mall        1
+Green Market     1
+Book Haven       1
+FashionFiesta    1
+
+ubicacion (36 valores distintos)
+ubicacion
+Springfield    11
+Greenfield      4
+River City      3
+Lakeview        3
+Downtown        3
+
+categoria_producto (22 valores distintos)
+categoria_producto
+Electronics         11
+Food & Beverages     9
+Apparel              8
+Home & Garden        7
+Books                4
+
+grupo_edad_cliente (24 valores distintos)
+grupo_edad_cliente
+30-45    14
+20-30     9
+40-50     6
+25-35     5
+18-24     3
+
+nivel_ingreso_cliente (3 valores distintos)
+nivel_ingreso_cliente
+High      31
+Medium    24
+Low        5
+
+etiqueta_desempeno (3 valores distintos)
+etiqueta_desempeno
+Medium    30
+High      28
+Low        2
+
+mes (2 valores distintos)
+mes
+2023-01    33
+2023-02    27
+
+Notas:
+- T1: se renombraron las 10 columnas a español en formato snake_case.
+- T2: la columna fecha se convirtió de texto a datetime.
+- T3: se normalizaron espacios en las 6 columnas de texto.
+- T4: se crearon precio_unitario (ingresos / unidades_vendidas) y mes (AAAA-MM).
+- T5: se eliminó id_registro (consecutivo sin valor analítico).
+- T6: se filtraron ventas con unidades_vendidas >= 100 (de 100 a 60 filas).
